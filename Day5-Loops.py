@@ -9,11 +9,10 @@ the form: n x i = result.
 Print 10 lines of output; each line i (where 1 <= i <= 10)
 contains the result of n x i in the form: n x i = result.
 
-Sample Input
-
+Sample Input:
 2
-Sample Output
 
+Sample Output:
 2 x 1 = 2
 2 x 2 = 4
 2 x 3 = 6
