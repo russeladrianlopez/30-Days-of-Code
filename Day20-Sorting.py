@@ -1,5 +1,6 @@
 '''
-Task
+Day 20: Sorting
+Task:
 Given an array, a, of size n distinct elements, sort the array in ascending
 order using the Bubble Sort algorithm above. Once sorted, print the following
 3 lines:
