@@ -23,3 +23,15 @@ we attempt to convert it to an integer. Thus, we print the 3.
 Sample Case 1 does not contain any integers, so an attempt to convert it to an
 integer will raise an exception. Thus, our exception handler prints Bad String.
 '''
+
+#!/bin/python3
+
+import sys
+
+
+S = input().strip()
+
+try:
+    print(int(S))
+except ValueError:
+    print("Bad String")
